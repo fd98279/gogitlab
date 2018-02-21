@@ -34,3 +34,5 @@ _ReSharper*/
 
 # Output of the go coverage tool, specifically when used with LiteIDE
 *.out
+.settings/com.googlecode.goclipse.core.prefs
+pkg/windows_amd64/lib/util.a
